@@ -8,7 +8,7 @@ A collection of my front-end projects built using **HTML**, **CSS**, and **JavaS
 | # | Project Name | Live Demo | Code | Preview |
 |:-:|---------------|-----------|------|----------|
 | 1 | 📝 To-Do App | [🔗 View](https://app.netlify.com/projects/todoapp0000000/overview) | [💻 Code](./projects/01-todo-app) | ![Preview](./projects/01-todo-app/assets/preview.png) |
-| 2 | 🌤️ Weather App | [View](https://weatherappbyaayush.netlify.app/) | [Code](./projects/02-weather-app) | ![preview](projects/02-weather-app/preview.png) |
+| 2 | 🌤️ Weather App | [View](https://weatherappbyaayush.netlify.app/) | [Code](./projects/02-weather-app) | ![preview](projects/02-weather-app/images/preview.png) |
 
 
 ---
