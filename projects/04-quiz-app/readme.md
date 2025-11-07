@@ -26,7 +26,7 @@ It allows users to answer multiple-choice questions, view instant feedback, and 
 
 ## 📸 Preview
 
-![Quiz App Screenshot](./preview.png)
+![Quiz App Screenshot](.images/preview.png)
 
 ---
 
