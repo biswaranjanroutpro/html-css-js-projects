@@ -10,6 +10,7 @@ A collection of my front-end projects built using **HTML**, **CSS**, and **JavaS
 | 1 | 📝 To-Do App | [🔗 View](https://app.netlify.com/projects/todoapp0000000/overview) | [💻 Code](./projects/01-todo-app) | ![Preview](./projects/01-todo-app/assets/preview.png) |
 | 2 | 🌤️ Weather App | [View](https://weatherappbyaayush.netlify.app/) | [Code](./projects/02-weather-app) | ![preview](projects/02-weather-app/images/preview.png) |
 | 3 | 🧮 Calculator App | [View](https://calculatorbyaayushhhhhhh.netlify.app/) | [Code](./projects/03-calculator-app) | ![preview](projects/03-calculator-app/images/preview.png) |
+| 4 | 🧠 Quiz App | [View](https://quiiiiiiiiiiiiiizzzzzzzzapp.netlify.app/) | [Code](./projects/04-quiz-app) | ![preview](projects/04-quiz-app/images/preview.png) |
 
 
 ---
