@@ -11,7 +11,7 @@ A collection of my front-end projects built using **HTML**, **CSS**, and **JavaS
 | 2 | 🌤️ Weather App | [View](https://weatherappbyaayush.netlify.app/) | [Code](./projects/02-weather-app) | ![preview](projects/02-weather-app/images/preview.png) |
 | 3 | 🧮 Calculator App | [View](https://calculatorbyaayushhhhhhh.netlify.app/) | [Code](./projects/03-calculator-app) | ![preview](projects/03-calculator-app/images/preview.png) |
 | 4 | 🧠 Quiz App | [View](https://quiiiiiiiiiiiiiizzzzzzzzapp.netlify.app/) | [Code](./projects/04-quiz-app) | ![preview](projects/04-quiz-app/images/preview.png) |
-| 5 | 🧠 Todo App | [View]() | [Code](./projects/04-todo-app2) | ![preview](projects/05-todo-app2/images/preview.png) |
+| 5 | 📝 Todo App2 | [View](https://chipper-baklava-9e8746.netlify.app/) | [Code](./projects/04-todo-app2) | ![preview](projects/05-todo-app2/images/preview.png) |
 
 
 ---
