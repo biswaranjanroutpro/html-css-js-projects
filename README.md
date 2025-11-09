@@ -12,6 +12,7 @@ A collection of my front-end projects built using **HTML**, **CSS**, and **JavaS
 | 3 | 🧮 Calculator App | [View](https://calculatorbyaayushhhhhhh.netlify.app/) | [Code](./projects/03-calculator-app) | ![preview](projects/03-calculator-app/images/preview.png) |
 | 4 | 🧠 Quiz App | [View](https://quiiiiiiiiiiiiiizzzzzzzzapp.netlify.app/) | [Code](./projects/04-quiz-app) | ![preview](projects/04-quiz-app/images/preview.png) |
 | 5 | 📝 Todo App2 | [View](https://chipper-baklava-9e8746.netlify.app/) | [Code](./projects/04-todo-app2) | ![preview](projects/05-todo-app2/images/preview.png) |
+| 6 | 🧮 Calculator App | [View](https://iridescent-jelly-144700.netlify.app/) | [Code](./projects/06-calculator-app2) | ![preview](projects/06-calculator-app2/images/preview.png) |
 
 
 ---
