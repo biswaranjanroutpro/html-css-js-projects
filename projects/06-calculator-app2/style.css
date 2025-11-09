@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins' sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: radial-gradient(1200px 800px at 20% -10%, #8ec5ff55, transparent 60%),
+              radial-gradient(900px 700px at 120% 20%, #ffb3e655, transparent 60%),
+              linear-gradient(135deg, #0f1220 0%, #0a0c16 100%);
+    color: #e9eefc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.calculator {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.18), rgba(255,255,255,0.06));
+    border-radius: 22px;
+    /* width: 100%; */
+    /* max-width: 420px; */
+    border: 1px solid rgba(255,255,255,0.12); 
+    box-shadow: 0 20px 40px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,255,255,0.08);
+    padding: 20px;
+}
+
+input {
+    width: 200px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    padding: 24px;
+    margin: 10px;
+    background: transparent;
+    padding: 8px 0 0;
+    text-align: right;
+    color: #e9eefc;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+input::placeholder {
+    color: #fff;
+}
+
+button {
+    width: 60px;
+    border: none;
+    /* appearance: none; */
+    background: linear-gradient(180deg, rgba(255,255,255,0.10), rgba(255,255,255,0.04));
+    color: #e9eefc;
+    padding: 14px 0;
+    font-size: 18px;
+    font-weight: 700;
+    box-shadow:  0 6px 14px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,255,255,0.06);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    /* user-select: none; */
+    transition: transform .06s ease, box-shadow .2s ease, background .2s ease, filter .2s ease;
+    margin-top: 5px;
+    border-radius: 17px;
+    cursor: pointer;
+}
+
+button.equalto {
+    width: 124px;
+    background-color: #fb7c14;
+}
+
+button:active { 
+    transform: translateY(1px) scale(0.995); 
+}
+button:hover {
+    filter: brightness(1.1); 
+}
+
+
+
+
+
+@media (max-width: 420px) {
+    button { 
+        padding: 16px 0; 
+        font-size: 20px; 
+    }
+}
